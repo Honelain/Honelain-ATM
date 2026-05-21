@@ -1,5 +1,5 @@
 # Honelain-ATM
-My first Python project after a month of learning to practice loops, conditionals, inputsand file operations. 
+My first Python project after a month of learning to practice loops, conditionals, inputs and file operations. 
 
 I'm always open to learning so as to improve and become better.
 
